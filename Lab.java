@@ -1,7 +1,7 @@
 
 /*
-Abdullah el Rashedy - el lab tutorial
-hat3mel sho8lak hna w t3mlo 3la pdf w trf3o 3la lms f nfs el youm
+Eng. Abdullah el Rashedy - lab instructor
+
 Java can work on literally any platform, most UI is done by java
 Java Development Kit: turns the java file to byte file
  --
